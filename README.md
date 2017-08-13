@@ -1,2 +1,2 @@
 # social-networking-model-ZARF
-Exploiting some features of social networking in a website built for college fest, Zarf.
+Exploiting some features of social networking in a website built for college fest, Zarf. For this website to work, besides placing all the contents on webserver, configure database with database name 'zarf' and make tables by importing zarf.sql Further, you need to configure your facebook's developer console and make corresponding changes in index.php in fblogin folder.
